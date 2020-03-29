@@ -1,0 +1,42 @@
+{
+  "name": "honeydipper",
+  "version": "0.0.1",
+  "author": "Sk Arif <skarif2@gmail.com> (https://skarif.dev/)",
+  "contributors": [],
+  "license": "SEE LICENSE IN <license>",
+  "private": false,
+  "repository": "github:skarif2/honeydipper",
+  "homepage": "honeydipper.skarif2.dev",
+  "keywords": [],
+  "engines": {
+    "node": ">=12.14.0",
+    "npm": ">=6.13.4",
+    "yarn": ">=1.19.1"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@styled-system/theme-get": "^5.1.2",
+    "next": "9.3.1",
+    "next-compose-plugins": "^2.2.0",
+    "next-cookies": "^2.0.3",
+    "next-fonts": "^1.0.3",
+    "next-optimized-images": "^2.5.5",
+    "node-sass": "^4.13.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "styled-components": "^5.0.1",
+    "styled-system": "^5.1.5",
+    "stylis-plugin-rtl": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.3",
+    "@types/react": "^16.9.25",
+    "@types/react-dom": "^16.9.5",
+    "typescript": "^3.8.3",
+    "webp-loader": "^0.6.0"
+  }
+}
