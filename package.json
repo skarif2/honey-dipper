@@ -25,7 +25,7 @@
     "next-cookies": "^2.0.3",
     "next-fonts": "^1.0.3",
     "next-optimized-images": "^2.5.5",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "styled-components": "^5.0.1",
